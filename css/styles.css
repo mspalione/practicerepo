@@ -1,3 +1,7 @@
 .color {
-color: #0000ff;
+    color: #0000ff;
+}
+
+.column {
+    float: left;
 }
